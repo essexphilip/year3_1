@@ -1,0 +1,10 @@
+pip install Flask
+pip install Flask-Migrate
+pip install Flask-WTF
+pip install Flask-Login
+pip install Flask-SQLAlchemy
+pip install Flask-Dance
+pip install Email-Validator
+pip install Flask-Restful
+pip install Flask-Babel
+pip install Pillow
